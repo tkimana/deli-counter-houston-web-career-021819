@@ -1,2 +1,3 @@
 def line[]
-  puts "the line is currently empty"
+  puts "The line is currently empty"
+end 
